@@ -1,0 +1,13 @@
+# Build artifacts and executables
+*.exe
+*.obj
+*.o
+analyzer
+indexer
+
+# Test data
+test*.txt
+
+# Build directories
+build/
+bin/
