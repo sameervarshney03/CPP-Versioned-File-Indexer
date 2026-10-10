@@ -145,6 +145,3 @@ Let `U` be the number of unique words in a queried version.
 - Tokenization is byte-oriented and is not a full Unicode text-processing implementation. Character functions process inputs safely as `unsigned char`.
 - Frequencies use `int`, so extremely large counts may overflow.
 
-## Acknowledgment
-
-The starting implementation was provided by Velpula Jashwanth as a CS253 file-indexing assignment. Preserve attribution when adapting it, and describe subsequent contributions accurately. This acknowledgment does not grant a software license; confirm permission and applicable terms before publishing reused source code.
